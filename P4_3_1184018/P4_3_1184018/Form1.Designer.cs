@@ -111,6 +111,7 @@
             this.txtangka2.Name = "txtangka2";
             this.txtangka2.Size = new System.Drawing.Size(100, 22);
             this.txtangka2.TabIndex = 6;
+            this.txtangka2.Leave += new System.EventHandler(this.txtangka2_Leave);
             // 
             // txtangka1
             // 

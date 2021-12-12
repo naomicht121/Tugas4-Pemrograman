@@ -7,3 +7,12 @@ c:\users\asus\documents\visual studio 2015\Projects\P4_3_1184018\P4_3_1184018\ob
 c:\users\asus\documents\visual studio 2015\Projects\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.csproj.GenerateResource.Cache
 c:\users\asus\documents\visual studio 2015\Projects\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.exe
 c:\users\asus\documents\visual studio 2015\Projects\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\bin\Debug\P4_3_1184018.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\bin\Debug\P4_3_1184018.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\bin\Debug\P4_3_1184018.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Tugas4-1184018-Pemrog\P4_3_1184018\P4_3_1184018\obj\Debug\P4_3_1184018.csproj.GenerateResource.Cache

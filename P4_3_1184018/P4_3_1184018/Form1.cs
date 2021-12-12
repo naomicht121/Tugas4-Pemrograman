@@ -74,27 +74,39 @@ namespace P4_3_1184018
             }
         }
 
+        int nilai;
+        int nilai1;
+
         private void txtangka1_Leave(object sender, EventArgs e)
         {
-            if (txtHuruf.Text == "")
+            if (Int32.TryParse(txtangka1.Text, out nilai))
             {
-                epWrong.SetError(txtHuruf, "Huruf tidak boleh kosong !");
-                epWarning.SetError(txtHuruf, "");
-                epCorrect.SetError(txtHuruf, "");
-            }
-            else
-            {
-                if ((txtHuruf.Text).All(Char.IsLetter))
+                if (nilai > nilai1)
                 {
-                    epWarning.SetError(txtHuruf, "");
-                    epWrong.SetError(txtHuruf, "");
-                    epCorrect.SetError(txtHuruf, "Betul!");
+                    epWarning.SetError(txtangka1, "");
+                    epCorrect.SetError(txtangka1, "Betul!");
                 }
                 else
                 {
-                    epWarning.SetError(txtHuruf, "Inputan hanya boleh huruf!");
-                    epWrong.SetError(txtHuruf, "");
-                    epCorrect.SetError(txtHuruf, "");
+                    epWarning.SetError(txtangka1, "Angka 2 lebih besar daripada Angka 1");
+                    epCorrect.SetError(txtangka1, "");
+                }
+            }
+        }
+
+        private void txtangka2_Leave(object sender, EventArgs e)
+        {
+            if (Int32.TryParse(txtangka2.Text, out nilai1))
+            {
+                if (nilai > nilai1)
+                {
+                    epWarning.SetError(txtangka2, "");
+                    epCorrect.SetError(txtangka2, "Betul!");
+                }
+                else
+                {
+                    epWarning.SetError(txtangka2, "Angka 2 lebih besar daripada Angka 1");
+                    epCorrect.SetError(txtangka2, "");
                 }
             }
         }
